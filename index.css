@@ -1,0 +1,28 @@
+h1 {
+    color: goldenrod;
+}
+
+body {
+    background-image: url("istockphoto-1046326882-612x612.png");
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: honeydew;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    border-radius: 10px;
+    border: none;
+    font-weight: bolder;
+    font-size: large;
+    color: #016f32;
+    width: 150px;
+    height: 50px;
+    background-color: goldenrod;
+}
